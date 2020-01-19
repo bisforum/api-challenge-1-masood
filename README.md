@@ -49,4 +49,8 @@ curl -X GET --header 'Accept: application/json' 'https://api.predic8.de:443/shop
 `
 
 **Solution:**  
-Talk with the Product Owner/Developers and clarify what input should generate 4xx error codes?
+Talk with the Product Owner/Developers and clarify what input could generate 401 error code?
+
+**Improvements**  
+If I would have more time I would move the endpoint URLs to a property files.
+Also in case the number of test increases, I would do some refactoring and separate the data layers and test prepration layers from the tests itself.
