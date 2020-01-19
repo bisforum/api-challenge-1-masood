@@ -1,7 +1,7 @@
 # How to run
 1. This is a maven project, please make sure you have it on your machine. If not, please follow this link: https://maven.apache.org/install.html 
 
-2. Open the project in your IDE (I use IntelliJ IDEA) and right click on the APITest.FruitShop.java file and Run the test
+2. Unzip the file and Open the project in your IDE (I use IntelliJ IDEA) and right click on the APITest.FruitShop.java file and Run the test
 
 Everything else should work. 
 
